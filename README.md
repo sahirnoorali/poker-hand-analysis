@@ -1,3 +1,4 @@
+
 # Analysis and Prediction of Poker Hand Strength
 
 This project involves the analysis and prediction of poker hand strength using UCI Poker Hand data set:
@@ -28,6 +29,8 @@ to present a comparison between their performance measure (mainly accuracy). The
 - **OutputCodeClassifier with Linear SVM**
 - **OneVsAll with Linear SVM**
 - **Multi-Layer Perceptron**
+
+The accuracy achieved with given MLP configuration is 3.6% better than the research work by Disken (reference no. 3 in the report). 
 
 ### Note 
 Detailed explanation of each Data Science step (applied) is present in the report (PDF) uploaded. The data exploration, comparison table,
